@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-events-state-2/static/css/main.0e94b8f6.chunk.css",
+    "main.js": "/ra-events-state-2/static/js/main.c5cabb74.chunk.js",
+    "main.js.map": "/ra-events-state-2/static/js/main.c5cabb74.chunk.js.map",
+    "runtime-main.js": "/ra-events-state-2/static/js/runtime-main.608f0556.js",
+    "runtime-main.js.map": "/ra-events-state-2/static/js/runtime-main.608f0556.js.map",
+    "static/js/2.a1fbb18e.chunk.js": "/ra-events-state-2/static/js/2.a1fbb18e.chunk.js",
+    "static/js/2.a1fbb18e.chunk.js.map": "/ra-events-state-2/static/js/2.a1fbb18e.chunk.js.map",
+    "static/js/3.90a450ad.chunk.js": "/ra-events-state-2/static/js/3.90a450ad.chunk.js",
+    "static/js/3.90a450ad.chunk.js.map": "/ra-events-state-2/static/js/3.90a450ad.chunk.js.map",
+    "index.html": "/ra-events-state-2/index.html",
+    "static/css/main.0e94b8f6.chunk.css.map": "/ra-events-state-2/static/css/main.0e94b8f6.chunk.css.map",
+    "static/js/2.a1fbb18e.chunk.js.LICENSE.txt": "/ra-events-state-2/static/js/2.a1fbb18e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.608f0556.js",
+    "static/js/2.a1fbb18e.chunk.js",
+    "static/css/main.0e94b8f6.chunk.css",
+    "static/js/main.c5cabb74.chunk.js"
+  ]
+}
